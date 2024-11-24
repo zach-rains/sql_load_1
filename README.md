@@ -1,5 +1,5 @@
 # Introduction
-Explore the data job market, focusing on data analyst roles by exploring top-paying jobs, most in-demand skills and where the two meet.
+My with this project was to explore the data job market, focusing on data analyst roles by exploring top-paying jobs, most in-demand skills and where the two meet.
 
 SQL Queries Here: [sql_project folder](/project_sql/)
 # Background
