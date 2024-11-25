@@ -41,7 +41,7 @@ WHERE
 ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
-![Top Paying Roles](project_sql/top_paying_jobs.png)
+
 
 ### 2. Necessary Skills For The Top Paying Jobs
 To find the skills that the top-paying jobs require I took the query from the previous question, and joined it with two other tables to identify the skills necessary. The joins added the skill id and skill name to my query, which allowed me to identify the necessary skills of the top paying jobs.
