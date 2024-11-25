@@ -41,7 +41,18 @@ WHERE
 ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
-
+| companay_name                           | job_id   | job_title                                       | job_location   | job_schedule_type   | salary_year_avg   | job_posted_date     |
+|:----------------------------------------|:---------|:------------------------------------------------|:---------------|:--------------------|:------------------|:--------------------
+| Mantys                                  | 226942   | Data Analyst                                    | Anywhere       | Full-time           | 650000            | 2023-02-20 15:13:33 
+| Meta                                    | 547382   | Director of Analytics                           | Anywhere       | Full-time           | 336500            | 2023-08-23 12:04:42
+| AT&T                                    | 552322   | Associate Director- Data Insights               | Anywhere       | Full-time           | 255830            | 2023-06-18 16:03:12 
+| Pinterest Job Advertisements            | 99305    | Data Analyst, Marketing                         | Anywhere       | Full-time           | 232423            | 2023-12-05 20:00:40 
+| Uclahealthcareers                       | 1021647  | Data Analyst (Hybrid/Remote)                    | Anywhere       | Full-time           | 217000            | 2023-01-17 00:17:23 
+| SmartAsset                              | 168310   | Principal Data Analyst (Remote)                 | Anywhere       | Full-time           | 205000            | 2023-08-09 11:00:01 
+| Inclusively                             | 731368   | Director, Data Analyst - HYBRID                 | Anywhere       | Full-time           | 189309            | 2023-12-07 15:00:13 
+| Motional                                | 310660   | Principal Data Analyst, AV Performance Analysis | Anywhere       | Full-time           | 189000            | 2023-01-05 00:00:25 
+| SmartAsset                              | 1749593  | Principal Data Analyst                          | Anywhere       | Full-time           | 186000            | 2023-07-11 16:00:05 
+| Get It Recruit - Information Technology | 387860   | ERM Data Analyst                                | Anywhere       | Full-time           | 184000            | 2023-06-09 08:01:04 
 
 ### 2. Necessary Skills For The Top Paying Jobs
 To find the skills that the top-paying jobs require I took the query from the previous question, and joined it with two other tables to identify the skills necessary. The joins added the skill id and skill name to my query, which allowed me to identify the necessary skills of the top paying jobs.
